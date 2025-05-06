@@ -1,1 +1,2 @@
-# Digital-Payment-Wallet-Paytm-Clone-
+# Digital_Payment_Wallet
+Paytm  Clone
